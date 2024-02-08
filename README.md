@@ -6,7 +6,7 @@ English version will be made in the future.
 https://discord.com/invite/TBUd8Jckdd<br />
 <br />
 現在あるコマンド一覧
-!kills(kill @s)
+!kills(kill @s)<br />
 最新のアップデート情報<br />
 Minercaft 1.20.60に対応しました<br />
 アイコンを追加しました<br />
