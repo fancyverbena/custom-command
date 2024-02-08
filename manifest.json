@@ -1,0 +1,32 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "custom command ver1.0.0",
+        "description": "カスタムコマンドを実装するアドオンです",
+        "uuid": "cac04a90-f273-4448-b41e-cc420a688eff",
+        "version": [ 1, 0, 0 ],
+        "min_engine_version": [ 1, 20, 60 ]
+    },
+    "modules": [
+        {
+            "description": "data",
+            "type": "data",
+            "uuid": "3661bdd5-0631-4642-88af-dc3637e9fa4f",
+            "version": [1, 0, 0]
+        },
+        {
+            "description": "javascript",
+            "type": "script",
+            "language": "javascript",
+            "uuid": "500263e5-d7a8-41c8-805b-62e058f6c209b",
+            "entry": "scripts/main.js",
+            "version": [ 1, 0, 0 ]
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "1.9.0-beta"
+        }
+    ]
+}
