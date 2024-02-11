@@ -5,9 +5,11 @@ English version will be made in the future.
 バグや意見はこちらへお願いします<br />
 https://discord.com/invite/TBUd8Jckdd<br />
 <br />
+
+最新のアップデート情報<br />
+!killrm(ランダムなプレイヤーを倒す)を追加しました<br />
+それぞれのコマンドことに分けました<br />
+
 現在あるコマンド一覧<br />
 !kills(自滅)<br />
 !killrm(ランダムなプレイヤーを倒す)<br />
-最新のアップデート情報<br />
-Minercaft 1.20.60に対応しました<br />
-アイコンを追加しました<br />
