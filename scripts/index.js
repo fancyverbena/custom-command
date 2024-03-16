@@ -1,2 +1,5 @@
-import { kills } from './commands/kills'; kills()
-import { killrm } from './commands/killrm'; killrm()
+import { kills } from './commands/kill/kills'; kills()
+import { killrm } from './commands/kill/killrm'; killrm()
+import { killa } from './commands/kill/killa'; killa()
+import { help } from './commands/help/help'; help()
+import { killall } from './commands/kill/killall'; killall()
