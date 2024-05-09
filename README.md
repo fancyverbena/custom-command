@@ -7,9 +7,8 @@ https://discord.com/invite/TBUd8Jckdd<br />
 <br />
 
 最新のアップデート情報<br />
-!killa(全てのプレイヤーを倒す)を追加<br />
-!help(コマンド一覧を表示)を追加<br />
-!killall(すべてを倒す)を追加<br />
+Minecraft bedrock ver1.20.80に対応<br />
+それ以前のバージョンは動きません<br />
 
 現在あるコマンド一覧<br />
 !kills(自滅)<br />
